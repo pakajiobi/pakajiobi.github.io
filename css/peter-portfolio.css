@@ -1600,15 +1600,15 @@ figcaption {
 
 .text-span-25 {
   color: #fff;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .text-span-26 {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .text-span-27 {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .columns-18 {
@@ -2664,7 +2664,7 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
   }
   .hero-section {
     display: block;
-    height: 450px;
+    height: 500px;
     margin-top: 59px;
     margin-right: auto;
     margin-left: auto;
@@ -2678,7 +2678,7 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
   .hero-heading {
     display: block;
     width: 300px;
-    margin-top: -150px;
+    margin-top: -134px;
     margin-bottom: 20px;
     padding-top: 0px;
     padding-bottom: 0px;
